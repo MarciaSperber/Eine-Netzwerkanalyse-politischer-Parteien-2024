@@ -3,7 +3,7 @@
 
 Zur Nachvollziehbarkeit der Arbeit und auch der Weiterverwendung der Daten, stellt dieses Repository die Daten und Ergebnisse zur Verfügung, die aus dem praktischen Teil hervorgegangen sind.
 
-Die Hausarbeit untersucht die Verbindungen zwischen den 14 politischen Parteien und Vereinigungen, die 2024 einen Sitz im Europaparlament erhalten haben. Vor dem Hintergrund der gebräuchlichen ideologischen Einordnung von Parteien im Spektrum links bis rechts, soll die Arbeit untersuchen, ob linke oder rechte Gruppierungen dieselben Themenschwerpunkte aufweisen. Der Fokus liegt hierbei auf Übereinstimmungen der Wahlprogramme der Parteien mit erarbeiteten Schlüsselwörtern zu bestimmten politisch relevanten Themengebieten. Diese Themen sind aus xxx entnommen worden. Die Schlüsselwörter wurden mithilfe von ChatGPT generiert.
+Die Hausarbeit untersucht die Verbindungen zwischen den 14 politischen Parteien und Vereinigungen, die 2024 einen Sitz im Europaparlament erhalten haben. Vor dem Hintergrund der gebräuchlichen ideologischen Einordnung von Parteien im Spektrum links bis rechts, soll die Arbeit untersuchen, ob linke oder rechte Gruppierungen dieselben Themenschwerpunkte aufweisen. Der Fokus liegt hierbei auf Übereinstimmungen der Wahlprogramme der Parteien mit erarbeiteten Schlüsselwörtern zu bestimmten politisch relevanten Themengebieten. Diese Themen sind aus (https://www.fes.de/europawahl) entnommen worden. Die Schlüsselwörter wurden mithilfe von ChatGPT generiert.
 
 Die genutzten Wahlprogramme der 14 politischen Parteien werden im Ordner "Wahlprogramme der EU-Wahl 2024" in Form von Textdateien verortet.
 
